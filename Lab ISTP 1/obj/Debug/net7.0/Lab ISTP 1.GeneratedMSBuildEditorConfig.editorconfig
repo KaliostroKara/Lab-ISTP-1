@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab_ISTP_1
+build_property.RootNamespace = Lab_ISTP_1
+build_property.ProjectDir = D:\univer\2 kyrs\1 истп\Lab ISTP 1 (Reshenie)\Lab ISTP 1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\univer\2 kyrs\1 истп\Lab ISTP 1 (Reshenie)\Lab ISTP 1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Home/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/OrderItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/OrderItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/OrderItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/OrderItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/OrderItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Products/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Authorization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQXV0aG9yaXphdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/ListOfUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTGlzdE9mVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Users/Loginig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW5pZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/univer/2 kyrs/1 истп/Lab ISTP 1 (Reshenie)/Lab ISTP 1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ottnda95g3
